@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+}
+
+.App{
+  align-items: center;
+  text-align: center;
+  background-color: #D1FAE8;
+  background-size: cover;
+  scroll-behavior: smooth;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+@media screen and (max-width: 436px) {
+ .App{
+  background-color: #D1FAE8;
+  background-size: cover;
+  scroll-behavior: smooth;
+  height: 100%;
+  width: 100%;
+ }
+}
